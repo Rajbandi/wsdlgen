@@ -1,16 +1,12 @@
 {
-  "name": "wsdlstubgen",
+  "name": "@rajbandi/wsdlstubgen",
   "version": "1.0.0",
   "description": "Generates SOAP request and response XML stubs from a WSDL file",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": {
-    "name": "Raj Bandi",
-    "email": "raj.bandi@hotmail.com",
-    "url": "http://www.rajbandi.dev"
-  },
+  "author": "Raj Bandi <raj.bandi@hotmail.com> (http://www.rajbandi.dev)",
   "license": "MIT",
   "dependencies": {
     "soap": "^0.30.0",
@@ -18,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/rajbandi/wsdlstubgen.git"
+    "url": "git+https://github.com/rajbandi/wsdlstubgen.git"
   },
   "keywords": [
     "soapui",
@@ -34,5 +30,10 @@
     "wsdl",
     "gen",
     "xml"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/rajbandi/wsdlstubgen/issues"
+  },
+  "homepage": "https://github.com/rajbandi/wsdlstubgen#readme",
+  "devDependencies": {}
 }
