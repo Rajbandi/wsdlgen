@@ -1,6 +1,6 @@
 {
   "name": "@rajbandi/wsdlstubgen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates SOAP request and response XML stubs from a WSDL file",
   "main": "src/index.js",
   "scripts": {
