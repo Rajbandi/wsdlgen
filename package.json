@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Raj Bandi <raj.bandi@hotmail.com> (http://www.rajbandi.dev)",
+  "author": "Raj Bandi (http://www.rajbandi.dev)",
   "license": "MIT",
   "dependencies": {
     "soap": "^0.30.0",
